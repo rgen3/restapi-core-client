@@ -1,8 +1,8 @@
 {
-  "name": "rgen3/yii2-json-api-controller",
-  "description": "Yii2 simple json base controller.",
-  "keywords": ["yii2", "extension", "json", "controller"],
-  "type": "yii2-extension",
+  "name": "rgen3/restapi-core-client",
+  "description": "JSON-RCP simple client.",
+  "keywords": ["extension", "json", "controller"],
+  "type": "php-library",
   "license": "MIT",
   "authors": [
     {
